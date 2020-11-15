@@ -1,0 +1,6 @@
+2020-02-09 18:18:17.000000-0600 0x0        Timesync    0x0                  0      0    === system boot: 36921644-884E-44B1-8EAE-7B13C4FEC2D6
+2020-02-09 18:18:17.519992-0600 0xb4       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2020-02-09 18:51:46.000000-0600 0x0        Timesync    0x0                  0      0    === system boot: 9053F378-1A49-4721-BFE4-3C29222F028F
+2020-02-09 18:51:46.536584-0600 0xb4       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2020-02-09 18:57:56.000000-0600 0x0        Timesync    0x0                  0      0    === system boot: D1A09A31-78B0-4610-B2B9-3793D8467805
+2020-02-09 18:57:56.518537-0600 0xb4       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5

@@ -1,0 +1,5 @@
+The cat is white.
+The cat is black.
+The cat is brown.
+The cat is organe.
+

@@ -1,0 +1,23 @@
+1. A password of five lower-case letters selected from a dictionary of size
+   100,000 is log2(# of possible passwords). 
+
+   # of possible passwords would be (100,000)^5
+   assuming you can use the same word more than once. 
+
+   So the 5 word password would have about 83 bits of entropy.
+
+
+2. A password consisting of 8 alphanumeric characters, would have 62^8 possiblites.
+
+   So it would have log2(62^8) or about 47.63 bits of entropy.
+
+
+3. The 5 word password is stronger because it has more bits of entropy.
+
+
+4. At a rate of 10,000 passwords / second, on average,
+
+   the 5 word password would take 3 * 10^13 years to break
+
+   the 8 alphanumeric passowrd would take about 690 years to break
+
