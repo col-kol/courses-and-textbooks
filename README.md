@@ -1,4 +1,4 @@
-#Repo to contain my work for the following courses / textbooks:
+## Repo to contain my work for the following courses / textbooks:
 
 [Missing Semester](https://missing.csail.mit.edu)
 
